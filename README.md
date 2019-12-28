@@ -35,9 +35,6 @@ Plan:
 #############################################################################################################
 
 Assignment #2:
-################################
-# NOTE: it's is missing task #4!
-################################
 `python my_weather.py dublin`
 
 1. Should print the following to the console:
