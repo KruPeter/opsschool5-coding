@@ -3,7 +3,7 @@ import sys
 import urllib.parse
 from urllib.request import urlretrieve
 
-access_key = "a9b3b3c03662da4b3e5f21706695d616"
+access_key = "" #insert access key between the quotation marks before running this script
 url_basis = "http://api.weatherstack.com/current?access_key="
 
 if len(sys.argv) > 1:
